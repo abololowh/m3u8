@@ -19,4 +19,5 @@ def get_m3u8_url():
             print("An error occurred during the download:")
             print(str(e))
 
- get_m3u8_url()
+get_m3u8_url()
+
